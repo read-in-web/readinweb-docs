@@ -2,7 +2,9 @@
 
 Para alterar sua senha e suas informações de acesso:
 
-1. Clique no menu **Conta**, localizado ao lado esquerdo da tela.
+1. Clique no botão **Meu Site**.
+
+2. Clique no menu **Conta**, localizado ao lado esquerdo da tela.
 
 2. Clique no botão **Modificar Detalhes**.A tela que será aberta possui todos os campos editáveis para modificar as informações, inclusive seu nome e sobrenome.
 
