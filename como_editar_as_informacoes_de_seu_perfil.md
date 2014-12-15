@@ -11,6 +11,5 @@ Para realizar as edições, na página inicial da plataforma Sakai:
 
   * Para alterar a imagem do perfil, passe o mouse sobre o local da imagem e o botão **Alterar imagem** aparecerá para você clicar.
   
-  * Para alterar as informações, passe o mouse no fim de cada campo (ao lado esquerdo) e o botão **Editar** aparecerá para você clicar.
-![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/profile-edit.png)
+  * Para alterar as informações, passe o mouse no fim de cada campo (ao lado esquerdo) e o botão **Editar** aparecerá para você clicar. ![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/profile-edit.png)
 
