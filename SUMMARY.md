@@ -4,5 +4,5 @@
 * [Área do Professor - SAKAI](area_professor_sakai.md)
    * [Como editar as informações de seu perfil?](como_editar_as_informacoes_de_seu_perfil.md)
    * [Como alterar sua senha?](como_alterar_sua_senha.md)
-   * Como alterar seu e-mail cadastrado?
+   * [Como alterar seu e-mail cadastrado?](como_alterar_seu_e-mail_cadastrado.md)
 
