@@ -7,5 +7,5 @@
    * [Como alterar seu e-mail cadastrado?](como_alterar_seu_e-mail_cadastrado.md)
    * [Como alterar as informações de seu nome e sobrenome?](como_alterar_as_informacoes_de_seu_nome_e_sobrenome.md)
    * [Como adicionar eventos pessoais no calendário?](como_adicionar_eventos_pessoais_no_calendario.md)
-   * Como visualizar o calendário de todas as turmas ao mesmo tempo?
+   * [Como visualizar o calendário de todas as turmas ao mesmo tempo?](como_visualizar_o_calendario_de_todas_as_turmas_ao_mesmo_tempo.md)
 
