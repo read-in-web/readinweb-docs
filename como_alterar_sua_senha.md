@@ -1,6 +1,6 @@
 # Como alterar sua senha?
 
-Para alterar sua senha e suas infamações de acesso:
+Para alterar sua senha e suas informações de acesso:
 
 1. Clique no menu **Conta**, localizado ao lado esquerdo da tela.
 
