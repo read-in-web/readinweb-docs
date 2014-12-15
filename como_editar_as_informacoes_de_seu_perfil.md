@@ -4,7 +4,9 @@ No seu perfil, você consegue editar suas informações pessoais que podem ser v
 
 Para realizar as edições, na página inicial da plataforma Sakai:
 
-1. Clique no menu **Profile**, localizado ao lado esquerdo da tela.
+1. Clique no botão **Meu Site**.
+
+2. Clique no menu **Profile**, localizado ao lado esquerdo da tela.
 ![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/profile.png)
 
 2. A página de perfil será aberta e você pode alterar qualquer campo nela:
