@@ -12,4 +12,5 @@
    * [Como reutilizar o mesmo calendário entre diferentes turmas?](como_reutilizar_o_mesmo_calendario_entre_diferentes_turmas.md)
    * [Como enviar avisos aos alunos?](como_enviar_avisos_aos_alunos.md)
    * [Como reutilizar o mesmo aviso entre diferentes turmas?](como_reutilizar_o_mesmo_aviso_entre_diferentes_turmas.md)
+   * Como configurar minhas preferências de notificação (avisos e mensagens)?
 
