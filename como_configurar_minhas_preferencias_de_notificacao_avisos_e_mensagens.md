@@ -1,8 +1,6 @@
 # Como configurar minhas preferências de notificação (avisos e mensagens)?
 
-É poss
-
-Para realizar as edições, na página inicial da plataforma Sakai:
+É possível receber notificações por e-mail de algumas ações realizadas dentro da plataforma.
 
 1. Clique no botão **Meu Site**.
 
