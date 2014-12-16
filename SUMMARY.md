@@ -14,4 +14,5 @@
    * [Como reutilizar o mesmo aviso entre diferentes turmas?](como_reutilizar_o_mesmo_aviso_entre_diferentes_turmas.md)
    * [Como configurar minhas preferências de notificação (avisos e mensagens)?](como_configurar_minhas_preferencias_de_notificacao_avisos_e_mensagens.md)
    * [Como alterar o fuso horário de minha conta?](como_alterar_o_fuso_horario_de_minha_conta.md)
+   * Como alterar o idioma da plataforma?
 
