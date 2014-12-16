@@ -11,5 +11,5 @@
    * [Como compartilhar eventos com os alunos no calendário?](como_compartilhar_eventos_com_os_alunos_no_calendario.md)
    * [Como reutilizar o mesmo calendário entre diferentes turmas?](como_reutilizar_o_mesmo_calendario_entre_diferentes_turmas.md)
    * [Como enviar avisos aos alunos?](como_enviar_avisos_aos_alunos.md)
-   * Como reutilizar o mesmo aviso entre diferentes turmas?
+   * [Como reutilizar o mesmo aviso entre diferentes turmas?](como_reutilizar_o_mesmo_aviso_entre_diferentes_turmas.md)
 
