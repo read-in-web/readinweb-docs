@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * Administrador - Edição RiW
 * [Área do Professor - SAKAI](area_professor_sakai.md)
    * [Como editar as informações de seu perfil?](como_editar_as_informacoes_de_seu_perfil.md)
    * [Como alterar sua senha?](como_alterar_sua_senha.md)
