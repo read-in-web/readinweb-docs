@@ -13,4 +13,5 @@
    * [Como enviar avisos aos alunos?](como_enviar_avisos_aos_alunos.md)
    * [Como reutilizar o mesmo aviso entre diferentes turmas?](como_reutilizar_o_mesmo_aviso_entre_diferentes_turmas.md)
    * [Como configurar minhas preferências de notificação (avisos e mensagens)?](como_configurar_minhas_preferencias_de_notificacao_avisos_e_mensagens.md)
+   * Como alterar o fuso horário de minha conta?
 
