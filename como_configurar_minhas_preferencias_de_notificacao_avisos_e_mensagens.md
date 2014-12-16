@@ -10,6 +10,6 @@
 
 3. Veja que há uma série de tópicos sobre os quais você pode receber a notificação bem como o tipo de notificação a receber.
 
-4. Após ajustar da maneira desejada, clique em **Atualizar Preferência**.
+4. Após ajustar da maneira desejada, clique em **Atualizar Preferências**.
 
 ![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/pref_not.png)
