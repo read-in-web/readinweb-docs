@@ -10,9 +10,11 @@ Para criar o curso:
 
 2. Clique em **Criar curso**.
 
-3. Na tela que abrir, preencha as informações do curso (Nome, língua e descrição) e clique em **Criar**. O sistema será redirecionada para a página de edição do curso.
+3. Na tela que abrir, preencha as informações do curso (Nome, língua e descrição) e clique em **Criar**. 
 
-A partir desta página, basta preencher com conteúdo todos os campos e áreas do curso:
+![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/new-course.png)
+
+O sistema será redirecionada para a página de edição do curso. A partir desta página, basta preencher com conteúdo todos os campos e áreas do curso:
   * Módulo
     * Atividade
       * Texto
@@ -24,3 +26,4 @@ A partir desta página, basta preencher com conteúdo todos os campos e áreas d
     * Exercício
     * Gramática
   
+![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/new-course-edit.png)
