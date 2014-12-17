@@ -4,7 +4,7 @@
 * Administrador - Edição RiW
    * [Como criar um curso utilizando o mesmo template do curso RiW?](como_criar_um_curso_utilizando_o_mesmo_template_do_curso_riw.md)
    * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
-   * Como editar uma atividade?
+   * [Como editar uma atividade?](como_editar_uma_atividade.md)
    * [Como excluir uma atividade?](como_excluir_uma_atividade.md)
    * [Como adicionar palavras no Glossário?](como_adicionar_palavras_no_glossario.md)
 * [Área do Professor - SAKAI](area_professor_sakai.md)
