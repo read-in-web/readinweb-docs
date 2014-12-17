@@ -4,3 +4,12 @@
 
 Para criar o curso:
 
+1. Clique no botão **Meu Site**.
+
+2. Clique no menu **Read in Web Admin**, localizado ao lado esquerdo da tela.
+
+2. Clique em **Criar curso**.
+
+3. Na tela que abrir, preencha as informações do curso (Nome, língua e descrição) e clique em **Criar**.
+
+4. 
