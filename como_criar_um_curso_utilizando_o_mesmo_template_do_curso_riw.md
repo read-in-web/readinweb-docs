@@ -15,6 +15,12 @@ Para criar o curso:
 A partir desta página, basta preencher com conteúdo todos os campos e áreas do curso:
   * Módulo
     * Atividade
+      * Texto
+      * Questões
+      * Dicionário
+        * Glossário
+        * Palavras-função
     * Estratégia
     * Exercício
-    * Gramática 
+    * Gramática
+  
