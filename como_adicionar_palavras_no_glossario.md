@@ -1,6 +1,6 @@
 # Como adicionar palavras no Glossário?
 
-Dentro de cada atividade do curso, você possui espaço para inserir: o texto, o texto de pré-leitura, as questões e o dicionário (com uma divisão de glossário e palavras função).
+Dentro de cada atividade do curso, você possui o recurso de glossário).
 
 Para adicionar uma atividade em um curso já existe, basta realizar os seguintes passos:
 
