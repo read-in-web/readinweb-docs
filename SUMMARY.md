@@ -6,6 +6,7 @@
    * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
    * Como editar uma atividade?
    * Como excluir uma atividade?
+   * Como adicionar palavras no Glossário?
 * [Área do Professor - SAKAI](area_professor_sakai.md)
    * [Como editar as informações de seu perfil?](como_editar_as_informacoes_de_seu_perfil.md)
    * [Como alterar sua senha?](como_alterar_sua_senha.md)
