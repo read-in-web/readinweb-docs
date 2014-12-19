@@ -8,7 +8,7 @@ Você pode excluir palavras na área de Glossário. Para excluir:
 
 3. Nesta página, estão os cursos já criados dentro da plataforma. Para editá-lo, clique em **Editar conteúdo**.
 
-4. Escolha a atividade em que deseja adicionar uma palavra no glossário clicando em **LISTA DE MÓDULOS** e selecionando a atividade desejada.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/select-act.png)
+4. Escolha a atividade em que deseja excluir uma palavra no glossário clicando em **LISTA DE MÓDULOS** e selecionando a atividade desejada.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/select-act.png)
 
 5. Clique na aba **Dicionário**. 
 
@@ -16,4 +16,6 @@ Você pode excluir palavras na área de Glossário. Para excluir:
 
 ![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/edit-glossary.png)
 
-7. Após finalizar sua edição, clique no botão de edição.
+7. Para excluir a palavra, clique no ícone com um "x".
+
+![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/delete-glossary.png)
