@@ -10,9 +10,7 @@ Para editar uma questão:
 
 4. Escolha a atividade em que deseja editar uma questão clicando em **LISTA DE MÓDULOS** e selecionando a atividade desejada.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/select-act.png)
 
-5. Clique no botão **Nova questão**.
-6. Na janela que abrir, preencha os campos com seus respectivos conteúdos:
-  * **Posição**: será a posição em que a questão será mostrada no menu horizontal. É importante aqui verificar qual a posição da última questão para que seja inserida a próxima.
-  * **Enunciado**: texto de enunciado da questão. 
-  * **Resposta sugerida**: texto de resposta sugerida a ser exibido para o aluno como ponto de comparação com sua resposta.
-  ![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/add-question.png)
+5. Escolha a questão que deseja editar através do menu numérico de questões e edite os campos desejados.
+6. Quando finalizar, clique em **Salvar Questão**.
+
+![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/edit-question.png)
