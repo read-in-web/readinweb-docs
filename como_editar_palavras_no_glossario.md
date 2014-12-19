@@ -11,8 +11,6 @@ Dentro de cada atividade do curso, você pode inserir palavras na área de Gloss
 4. Escolha a atividade em que deseja adicionar uma palavra no glossário clicando em **LISTA DE MÓDULOS** e selecionando a atividade desejada.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/select-act.png)
 
 5. Clique na aba **Dicionário**. 
-6. Na aba glossário, clique no ícone de configuração localizado após a palavra que você deseja editar.[](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/edit-glossary.png)
+6. Na aba glossário, clique no ícone de configuração localizado após a palavra que você deseja editar. ![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/edit-glossary.png)
 
 7. Quando finalizar, clique na palavra **Salvar**.
-
-  ![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/glossary.png)
