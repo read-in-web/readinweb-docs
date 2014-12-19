@@ -6,7 +6,6 @@
    * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
    * [Como editar uma atividade?](como_editar_uma_atividade.md)
    * [Como excluir uma atividade?](como_excluir_uma_atividade.md)
-   * [Como adicionar palavras no Glossário?](como_adicionar_palavras_no_glossario.md)
    * [Como adicionar uma questão?](como_adicionar_uma_questao.md)
    * [Como editar uma questão?](como_editar_uma_questao.md)
    * [Como excluir uma questão?](como_excluir_uma_questao.md)
