@@ -8,7 +8,7 @@
    * [Como excluir uma atividade?](como_excluir_uma_atividade.md)
    * [Como adicionar palavras no Glossário?](como_adicionar_palavras_no_glossario.md)
    * [Como adicionar uma questão?](como_adicionar_uma_questao.md)
-   * Como editar uma questão?
+   * [Como editar uma questão?](como_editar_uma_questao.md)
 * [Área do Professor - SAKAI](area_professor_sakai.md)
    * [Como editar as informações de seu perfil?](como_editar_as_informacoes_de_seu_perfil.md)
    * [Como alterar sua senha?](como_alterar_sua_senha.md)
