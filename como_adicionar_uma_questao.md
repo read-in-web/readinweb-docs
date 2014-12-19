@@ -1,8 +1,6 @@
 # Como adicionar uma questão?
 
-Dentro de cada atividade do curso, você possui espaço para inserir: o texto, o texto de pré-leitura, as questões e o dicionário (com uma divisão de glossário e palavras função).
-
-Para adicionar uma atividade em um curso já existe, basta realizar os seguintes passos:
+Dentro de cada atividade do curso, você pode inserir questões referentes ao entendimento da leitura. Para adicionar:
 
 1. Clique no botão **Meu Site**.
 
