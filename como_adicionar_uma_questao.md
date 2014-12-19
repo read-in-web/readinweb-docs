@@ -8,7 +8,7 @@ Dentro de cada atividade do curso, você pode inserir questões referentes ao en
 
 3. Nesta página, estão os cursos já criados dentro da plataforma. Para editá-lo, clique em **Editar conteúdo**.
 
-4. Escolha a atividade em que deseja adicionar uma atividade clicando em **LISTA DE MÓDULOS** e selecionando a atividade desejada.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/select-act.png)
+4. Escolha a atividade em que deseja adicionar uma questão clicando em **LISTA DE MÓDULOS** e selecionando a atividade desejada.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/select-act.png)
 
 5. Clique no botão **Nova questão**.
 6. Na janela que abrir, preencha os campos com seus respectivos conteúdos:
