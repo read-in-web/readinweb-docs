@@ -16,4 +16,4 @@ Dentro de cada atividade do curso, você pode inserir palavras na área de Gloss
 
 ![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/edit-glossary.png)
 
-7. Quando finalizar, clique na palavra **Salvar**.
+7. Após finalizar sua edição, clique no botão de edição.
