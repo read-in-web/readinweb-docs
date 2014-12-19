@@ -1,6 +1,6 @@
 # Como editar palavras no Glossário?
 
-Dentro de cada atividade do curso, você pode inserir palavras na área de Glossário. Para adicionar:
+Você pode editar as palavras na área de Glossário. Para editar:
 
 1. Clique no botão **Meu Site**.
 
