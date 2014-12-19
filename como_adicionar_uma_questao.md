@@ -10,6 +10,10 @@ Para adicionar uma atividade em um curso já existe, basta realizar os seguintes
 
 3. Nesta página, estão os cursos já criados dentro da plataforma. Para editá-lo, clique em **Editar conteúdo**.
 
-4. Escolha o módulo em que deseja adicionar uma atividade clicando em **LISTA DE MÓDULOS** e selecionando o módulo desejado.
+4. Escolha a atividade em que deseja adicionar uma atividade clicando em **LISTA DE MÓDULOS** e selecionando a atividade desejada.
 
-5. Clique no botão **Nova atividade**
+5. Clique no botão **Nova questão**.
+6. Na janela que abrir, preencha os campos com seus respectivos conteúdos:
+  * Posição: será a posição em que a questão será mostrada no menu horizontal. É importante aqui verificar 
+  * Enunciado:  
+  * Resposta sugerida:
