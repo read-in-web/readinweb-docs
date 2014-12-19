@@ -10,7 +10,7 @@
    * [Como adicionar uma questão?](como_adicionar_uma_questao.md)
    * [Como editar uma questão?](como_editar_uma_questao.md)
    * [Como excluir uma questão?](como_excluir_uma_questao.md)
-   * Como adicionar palavras no Glossário?
+   * [Como adicionar palavras no Glossário?](como_adicionar_palavras_no_glossario.md)
    * Como editar palavras no Glossário?
 * [Área do Professor - SAKAI](area_professor_sakai.md)
    * [Como editar as informações de seu perfil?](como_editar_as_informacoes_de_seu_perfil.md)
