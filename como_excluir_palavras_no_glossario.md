@@ -12,7 +12,7 @@ Você pode excluir palavras na área de Glossário. Para excluir:
 
 5. Clique na aba **Dicionário**. 
 
-6. Na aba glossário, clique no ícone de configuração localizado após a palavra que você deseja editar. 
+6. Na aba glossário, clique no ícone de configuração localizado após a palavra que você deseja excluir. 
 
 ![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/edit-glossary.png)
 
