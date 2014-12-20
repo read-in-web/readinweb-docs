@@ -13,7 +13,7 @@
    * [Como editar palavras no Glossário?](como_editar_palavras_no_glossario.md)
    * [Como excluir palavras no Glossário?](como_excluir_palavras_no_glossario.md)
    * [Como adicionar palavras no campo Palavras-função?](como_adicionar_palavras_no_campo_palavras-funcao.md)
-   * Como editar palavras no campo Palavras-função?
+   * [Como editar palavras no campo Palavras-função?](como_editar_palavras_no_campo_palavras-funcao.md)
    * Como excluir palavras no campo Palavras-função?
 * [Área do Professor - SAKAI](area_professor_sakai.md)
    * [Como editar as informações de seu perfil?](como_editar_as_informacoes_de_seu_perfil.md)
