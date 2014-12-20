@@ -4,7 +4,6 @@
 * [Administrador - Edição RiW](administrador_-_edicao_riw.md)
    * [Como criar um curso utilizando o mesmo template do curso RiW?](como_criar_um_curso_utilizando_o_mesmo_template_do_curso_riw.md)
    * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
-   * [Como excluir uma atividade?](como_excluir_uma_atividade.md)
    * [Como adicionar uma questão?](como_adicionar_uma_questao.md)
    * [Como editar uma questão?](como_editar_uma_questao.md)
    * [Como excluir uma questão?](como_excluir_uma_questao.md)
