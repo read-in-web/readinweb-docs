@@ -16,7 +16,6 @@
    * [Como alterar o fuso horário de minha conta?](como_alterar_o_fuso_horario_de_minha_conta.md)
    * [Como alterar o idioma da plataforma?](como_alterar_o_idioma_da_plataforma.md)
 * Área do Professor - RiW
-* Administrador - Gestão de Turmas do RiW
 * [Administrador - Edição RiW](administrador_-_edicao_riw.md)
    * [Como criar um curso utilizando o mesmo template do curso RiW?](como_criar_um_curso_utilizando_o_mesmo_template_do_curso_riw.md)
    * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
@@ -29,4 +28,5 @@
    * [Como adicionar palavras no campo Palavras-função?](como_adicionar_palavras_no_campo_palavras-funcao.md)
    * [Como editar palavras no campo Palavras-função?](como_editar_palavras_no_campo_palavras-funcao.md)
    * [Como excluir palavras no campo Palavras-função?](como_excluir_palavras_no_campo_palavras-funcao.md)
+* Administrador - Gestão de Turmas do RiW
 
