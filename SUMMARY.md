@@ -12,7 +12,6 @@
    * [Como reutilizar o mesmo calendário entre diferentes turmas?](como_reutilizar_o_mesmo_calendario_entre_diferentes_turmas.md)
    * [Como enviar avisos aos alunos?](como_enviar_avisos_aos_alunos.md)
    * [Como configurar minhas preferências de notificação (avisos e mensagens)?](como_configurar_minhas_preferencias_de_notificacao_avisos_e_mensagens.md)
-   * Administrador - Gestão de Turmas do RiW
    * [Como reutilizar o mesmo aviso entre diferentes turmas?](como_reutilizar_o_mesmo_aviso_entre_diferentes_turmas.md)
    * [Como alterar o fuso horário de minha conta?](como_alterar_o_fuso_horario_de_minha_conta.md)
    * [Como alterar o idioma da plataforma?](como_alterar_o_idioma_da_plataforma.md)
