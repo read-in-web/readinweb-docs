@@ -15,7 +15,7 @@
    * [Como configurar minhas preferências de notificação (avisos e mensagens)?](como_configurar_minhas_preferencias_de_notificacao_avisos_e_mensagens.md)
    * [Como alterar o fuso horário de minha conta?](como_alterar_o_fuso_horario_de_minha_conta.md)
    * [Como alterar o idioma da plataforma?](como_alterar_o_idioma_da_plataforma.md)
-   * Área do Professor - RiW
+* Área do Professor - RiW
 * [Administrador - Edição RiW](administrador_-_edicao_riw.md)
    * [Como criar um curso utilizando o mesmo template do curso RiW?](como_criar_um_curso_utilizando_o_mesmo_template_do_curso_riw.md)
    * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
