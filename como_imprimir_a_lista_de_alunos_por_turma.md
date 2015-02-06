@@ -1,10 +1,8 @@
 # Como imprimir a lista de alunos por turma?
 
-Dentro de cada atividade do curso, você possui espaço para inserir: o texto, o texto de pré-leitura, as questões e o dicionário (com uma divisão de glossário e palavras função).
+Para imprimir a lista de alunos de cada turma:
 
-Para adicionar uma atividade em um curso já existe, basta realizar os seguintes passos:
-
-1. Clique no botão **Meu Site**.
+1. Clique na turma na barra superior azul em que você quer imprimir uma lista.
 
 2. Clique no menu **Read in Web Admin**, localizado ao lado esquerdo da tela.
 
