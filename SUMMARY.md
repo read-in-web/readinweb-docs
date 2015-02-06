@@ -31,5 +31,4 @@
    * [Como adicionar palavras no campo Palavras-função?](como_adicionar_palavras_no_campo_palavras-funcao.md)
    * [Como editar palavras no campo Palavras-função?](como_editar_palavras_no_campo_palavras-funcao.md)
    * [Como excluir palavras no campo Palavras-função?](como_excluir_palavras_no_campo_palavras-funcao.md)
-* [Administrador - Gestão de Turmas do RiW](administrador_-_gestao_de_turmas_do_riw.md)
 
