@@ -16,8 +16,8 @@
    * [Como alterar o fuso horário de minha conta?](como_alterar_o_fuso_horario_de_minha_conta.md)
    * [Como alterar o idioma da plataforma?](como_alterar_o_idioma_da_plataforma.md)
 * Área do Professor - RiW
-   * [Como imprimir a lista de alunos por turma?](como_imprimir_a_lista_de_alunos_por_turma.md)
    * Como acessar uma turma?
+   * [Como imprimir a lista de alunos por turma?](como_imprimir_a_lista_de_alunos_por_turma.md)
 * [Administrador - Edição RiW](administrador_-_edicao_riw.md)
    * [Como criar um curso utilizando o mesmo template do curso RiW?](como_criar_um_curso_utilizando_o_mesmo_template_do_curso_riw.md)
    * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
