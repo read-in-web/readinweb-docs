@@ -4,10 +4,12 @@ Para imprimir a lista de alunos de cada turma:
 
 1. Clique na turma na barra superior azul em que você quer imprimir uma lista.
 
-2. Clique no menu **Read in Web Admin**, localizado ao lado esquerdo da tela.
+2. Clique no menu **Participantes**, localizado ao lado esquerdo da tela.
+![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/list.png)
 
-3. Nesta página, estão os cursos já criados dentro da plataforma. Para editá-lo, clique em **Editar conteúdo**.
+3. Nesta página, há dois botões disponíveis, **Exportar** e **Imprimir** sendo que:
+  
+  * Usando o botão **Imprimir**, toda a página será impressa (os botões, os textos, etc) e não apenas a lista de alunos.
+  
+  * Usando o botão **Exportar**, será gerado um arquivo de extensão *.xls* com a lista de alunos. A impressão a partir deste arquivo é de melhor qualidade.
 
-4. Escolha o módulo em que deseja adicionar uma atividade clicando em **LISTA DE MÓDULOS** e selecionando o módulo desejado.
-
-5. Clique no botão **Nova atividade**
