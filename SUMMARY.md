@@ -22,7 +22,7 @@
    * [Como imprimir a lista de alunos por turma?](como_imprimir_a_lista_de_alunos_por_turma.md)
    * [Como inserir o quadro de notas para os alunos?](como_inserir_o_quadro_de_notas_para_os_alunos.md)
    * [Como desativar o aluno, cancelando sua matrícula do curso?](como_desativar_o_aluno,_cancelando_sua_matricula_do_curso.md)
-   * Como verificar quantos alunos estão bloqueados?
+   * [Como verificar quantos alunos estão bloqueados?](como_verificar_quantos_alunos_estao_bloqueados.md)
 * [Administrador - Edição RiW](administrador_-_edicao_riw.md)
    * [Como criar um curso utilizando o mesmo template do curso RiW?](como_criar_um_curso_utilizando_o_mesmo_template_do_curso_riw.md)
    * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
