@@ -9,4 +9,4 @@
 
 3. Clique no botão **Exportar**.
 
-Automaticamente será gerado o arquivo para que você salve onde desejar.
+Automaticamente será gerado o arquivo de extensão *.xls* para que você salve onde desejar.
