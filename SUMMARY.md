@@ -15,6 +15,7 @@
    * [Como reutilizar o mesmo aviso entre diferentes turmas?](como_reutilizar_o_mesmo_aviso_entre_diferentes_turmas.md)
    * [Como alterar o fuso horário de minha conta?](como_alterar_o_fuso_horario_de_minha_conta.md)
    * [Como alterar o idioma da plataforma?](como_alterar_o_idioma_da_plataforma.md)
+   * Como adicionar um aluno na turma?
 * Área do Professor - RiW
    * [Como acessar uma turma?](como_acessar_uma_turma.md)
    * [Como exportar a lista de alunos?](como_exportar_a_lista_de_alunos.md)
