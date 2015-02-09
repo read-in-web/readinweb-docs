@@ -9,7 +9,7 @@ Para imprimir a lista de alunos de cada turma:
 
 3. Nesta página, há dois botões disponíveis, **Exportar** e **Imprimir** sendo que:
   
-  * Usando o botão **Imprimir**, toda a página será impressa (os botões, os textos, etc) e não apenas a lista de alunos.
+  * Usando o botão **Imprimir**, toda a página HTML será impressa (os botões, os textos, etc) e não apenas a lista de alunos.
   
   * Usando o botão **Exportar**, será gerado um arquivo de extensão *.xls* com a lista de alunos. A impressão a partir deste arquivo é de melhor qualidade.
 
