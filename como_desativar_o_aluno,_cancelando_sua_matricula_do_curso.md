@@ -10,7 +10,6 @@ De qualquer forma, para efetuar qualquer uma dessas ações, o caminho é o mesm
 
 2. Clique no menu **Configurações de Turma**, localizado ao lado esquerdo da tela.
 
-3. Vá até a lista de alunos e Clique no botão **Exportar**.
-4. ![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/remove-student.png)
+3. Vá até a lista de alunos e Clique no botão **Exportar**.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/remove-student.png)
 
 Automaticamente será gerado o arquivo de extensão *.xls* para que você salve onde desejar.
