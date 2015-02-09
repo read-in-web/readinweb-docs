@@ -1,6 +1,6 @@
 # Como desativar o aluno, cancelando sua matrícula do curso?
 
-É possível desativar um aluno de uma turma e também exclui-lo de lá, em ambos os casos o aluno perderá o acesso à turma. A diferença entre eles é:
+É possível desativar um aluno de uma turma e também exclui-lo de lá, sendo que em ambos os casos o aluno perderá o acesso à turma. A diferença entre eles é:
   * Quando você torna um aluno inativo, você pode reativá-lo quando quiser dentro da mesma turma.
   * Quando você exclui um aluno da turma, caso você desejar inseri-lo novamente, é preciso adicioná-lo na turma manualmente.
  
