@@ -10,4 +10,8 @@ De qualquer forma, para efetuar qualquer uma dessas ações, o caminho é o mesm
 
 2. Clique no menu **Configurações de Turma**, localizado ao lado esquerdo da tela.
 
-3. Vá até a lista de alunos e Clique no botão **Exportar**.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/remove-student.png)
+3. Vá até a lista de alunos abaixo na tela e:
+  * Altere o estado do aluno para inativo, caso essa for sua escolha.
+  * Marque o campo excluir, caso essa seja sua escolha.
+
+4. Para finalizar, clique no botão **Atualizar Participantes** localizado no fim da página.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/remove-student.png)
