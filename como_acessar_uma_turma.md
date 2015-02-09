@@ -5,6 +5,6 @@
 1. No menu superior azul, selecione a turma desejada.
 ![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/select-class.png)
 
-2. No menu lateral esquerdo, selecione **Curso Read in Web**.
+2. No menu lateral esquerdo, selecione **Curso Read in Web**. Pronto, você está na turma!
 
 Todas as turmas existentes na plataforma estarão na barra azul superior. Para identificá-las, basta visualizar o código.
