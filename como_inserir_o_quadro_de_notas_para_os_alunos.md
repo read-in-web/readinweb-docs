@@ -13,6 +13,8 @@ Para realizar isso basta seguir os passos e as configurações aqui descritas:
 
 4. Ao finalizar, clique em **Adicionar Item(s)**.
 5. Agora, é preciso inserir as notas. Vá até a lista de avaliações e clique na avaliação desejada.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/grades-add.png)
+
 6. Insira as notas de cada aluno no campo **Notas** e ao final clique em **Salvar Alterações**.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/grades-student.png)
-7. Por fim, para garantir que as notas serão exibidas
-![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/grades-view.png)
+
+7. Por fim, para garantir que as notas serão exibidas, dentro da página de Notas, clique no botão **Opções de notas de curso** e verifique se a opção **Exibir agora as notas do curso para os alunos
+** está selecionada.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/grades-view.png)
