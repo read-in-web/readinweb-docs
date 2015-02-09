@@ -19,7 +19,7 @@
    * [Como acessar uma turma?](como_acessar_uma_turma.md)
    * [Como exportar a lista de alunos?](como_exportar_a_lista_de_alunos.md)
    * [Como imprimir a lista de alunos por turma?](como_imprimir_a_lista_de_alunos_por_turma.md)
-   * Como inserir o quadro de notas para os alunos?
+   * [Como inserir o quadro de notas para os alunos?](como_inserir_o_quadro_de_notas_para_os_alunos.md)
 * [Administrador - Edição RiW](administrador_-_edicao_riw.md)
    * [Como criar um curso utilizando o mesmo template do curso RiW?](como_criar_um_curso_utilizando_o_mesmo_template_do_curso_riw.md)
    * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
