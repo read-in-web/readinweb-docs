@@ -12,5 +12,5 @@ Você pode enviar mensagens a **todos os alunos de uma turma** ao mesmo tempo at
 
 5. Ao finalizar, clique no botão **Enviar** localizado no fim da tela.
 
-![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/class-message.png)
+![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/message-class.png)
 
