@@ -8,6 +8,9 @@ Para ler e analisar as novas justificativas enviadas pelos alunos:
 
 3. Clique no botão **JUSTIFICATIVA** localizado na barra superior.
 
-4. No campo **Novas justificativas e justificativas com novas mensagens**, clique no botão **Avaliar**.
+4. No campo **Novas justificativas e justificativas com novas mensagens**, estarão as justificativas a serem avaliadas. Clique no botão **Avaliar** para acessar cada justificativa.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/request.png)
 
-![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/student-request.png)
+5. 
+[](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/request-view.png)
+
+
