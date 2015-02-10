@@ -25,7 +25,7 @@
    * [Como verificar quantos alunos estão bloqueados?](como_verificar_quantos_alunos_estao_bloqueados.md)
    * [Como verificar se há novas justificativas enviadas?](como_verificar_se_ha_novas_justificativas_enviadas.md)
    * [Como ler e analisar cada justificativa?](como_ler_e_analisar_cada_justificativa.md)
-   * Como verificar o histórico de bloqueios e justificativas de cada aluno?
+   * [Como verificar o histórico de bloqueios e justificativas de cada aluno?](como_verificar_o_historico_de_bloqueios_e_justificativas_de_cada_aluno.md)
 * [Administrador - Edição RiW](administrador_-_edicao_riw.md)
    * [Como criar um curso utilizando o mesmo template do curso RiW?](como_criar_um_curso_utilizando_o_mesmo_template_do_curso_riw.md)
    * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
