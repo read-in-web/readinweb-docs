@@ -41,4 +41,5 @@
    * [Como adicionar palavras no campo Palavras-função?](como_adicionar_palavras_no_campo_palavras-funcao.md)
    * [Como editar palavras no campo Palavras-função?](como_editar_palavras_no_campo_palavras-funcao.md)
    * [Como excluir palavras no campo Palavras-função?](como_excluir_palavras_no_campo_palavras-funcao.md)
+   * Como criar uma turma dentro de um curso?
 
