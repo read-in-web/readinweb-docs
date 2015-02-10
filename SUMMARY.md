@@ -31,9 +31,9 @@
    * [Como enviar mensagem para todos alunos ao mesmo tempo?](como_enviar_mensagem_para_todos_alunos_ao_mesmo_tempo.md)
 * [Administrador - Edição RiW](administrador_-_edicao_riw.md)
    * [Como criar um curso utilizando o mesmo template do curso RiW?](como_criar_um_curso_utilizando_o_mesmo_template_do_curso_riw.md)
+   * Como criar uma turma dentro de um curso?
    * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
    * [Como adicionar uma questão?](como_adicionar_uma_questao.md)
-   * Como criar uma turma dentro de um curso?
    * [Como editar uma questão?](como_editar_uma_questao.md)
    * [Como excluir uma questão?](como_excluir_uma_questao.md)
    * [Como adicionar palavras no Glossário?](como_adicionar_palavras_no_glossario.md)
