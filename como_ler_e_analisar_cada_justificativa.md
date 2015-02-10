@@ -13,7 +13,15 @@ Para ler e analisar as novas justificativas enviadas pelos alunos:
 5. Na tela da justificativa, o professor pode tomar as seguintes ações:
   * **Recusar**: ao clicar neste botão, a justificativa não será aceita e o aluno continuará bloqueado.
   * **Aceitar**: ao clicar neste botão, a justificativa será aceita e o aluno poderá acessar o curso novamente.
-  * **Enviar uma mensagem**: aqui será enviada uma mensagem para o aluno (ele verá na sua tela de justificativas
+  * **Enviar uma mensagem**: aqui será enviada uma mensagem para o aluno (ele verá na tela dele de justificativas). Este recurso pode ser utilizado por exemplo para pedir mais informações ao aluno sobre a não realização das atividades.
+  * Por fim, o professor pode apenas ler as mensagens e clicar em qualquer outro menu para sair desta tela. Ou seja, em outro momento ele analisará aquele bloqueio.
+
+**Tela do professor**:
 [](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/request-view.png)
+
+**Tela do aluno**:
+[](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/student-request-view.png)
+
+
 
 
