@@ -1,14 +1,8 @@
 # Como verificar quantos alunos estão bloqueados?
 
-É possível 
+Ao acessar a turma, você consegue visualizar quais alunos estão bloqueados. Para isso:
 
-
-  * Quando você torna um aluno inativo, você pode reativá-lo, quando quiser, dentro da mesma turma.
-  * Quando você excluir um aluno da turma, caso você desejar inseri-lo novamente, é preciso adicioná-lo na turma manualmente.
- 
-De qualquer forma, para efetuar qualquer uma dessas ações, o caminho é o mesmo:
-
-1. Selecione a turma em que você deseja desativar ou excluir um aluno clicando no código da turma na barra superior azul.
+1. Selecione a turma que você deseja verificar clicando no código da turma na barra superior azul.
 
 2. Clique no menu **Configurações de Turma**, localizado ao lado esquerdo da tela.
 
