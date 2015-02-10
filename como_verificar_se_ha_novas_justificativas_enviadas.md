@@ -8,7 +8,6 @@ Para verificar se há novas justificativas enviadas pelos alunos:
 
 3. Clique no botão **JUSTIFICATIVA** localizado na barra superior.
 
-A lista da turma será exibida e os alunos bloqueados são aqueles que estão marcados com uma faixa vermelha, conforme a imagem a seguir:
+As novas justificativas estão disponíveis no campo **Novas justificativas e justificativas com novas mensagens**, conforme a imagem a seguir:
 
-![](https://raw.githubuserco
-
+![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/student-request.png)
