@@ -28,6 +28,7 @@
    * [Como verificar o histórico de bloqueios e justificativas de cada aluno?](como_verificar_o_historico_de_bloqueios_e_justificativas_de_cada_aluno.md)
    * [Como verificar o andamento de cada aluno?](como_verificar_o_andamento_de_cada_aluno.md)
    * [Como enviar mensagem privada aos alunos?](como_enviar_mensagem_privada_aos_alunos.md)
+   * Como enviar mensagem para todos alunos ao mesmo tempo?
 * [Administrador - Edição RiW](administrador_-_edicao_riw.md)
    * [Como criar um curso utilizando o mesmo template do curso RiW?](como_criar_um_curso_utilizando_o_mesmo_template_do_curso_riw.md)
    * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
