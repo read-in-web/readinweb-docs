@@ -17,10 +17,10 @@ Para ler e analisar as novas justificativas enviadas pelos alunos:
   * Por fim, o professor pode apenas ler as mensagens e clicar em qualquer outro menu para sair desta tela. Ou seja, em outro momento ele analisará aquele bloqueio.
 
 **Tela do professor**:
-[](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/request-view.png)
+![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/request-view.png)
 
 **Tela do aluno**:
-[](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/student-request-view.png)
+![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/student-request-view.png)
 
 
 
