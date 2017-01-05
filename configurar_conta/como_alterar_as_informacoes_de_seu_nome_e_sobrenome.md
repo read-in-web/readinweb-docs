@@ -12,5 +12,5 @@ Para alterar seu e-mail de cadastro na plataforma:
 
 4. Quando finalizadas as alterações, clique em **Atualizar Detalhes**.
 
-![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/conta.png)
- 
+![Tela de modificar conta](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/conta.png)
+  

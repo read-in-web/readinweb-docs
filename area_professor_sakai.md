@@ -1,2 +1,0 @@
-# Área do Professor - SAKAI
-
