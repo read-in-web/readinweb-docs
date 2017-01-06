@@ -8,6 +8,6 @@ Para verificar o histórico de bloqueios e justificativas de cada aluno em uma t
 
 3. Clique no botão **TURMA** localizado na barra superior.
 
-4. No campo **Alunos matriculados**, estarão todos os alunos da turma. Para acessar cada aluno, basta clicar sobre seu nome.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/student-history.png)
+4. No campo **Alunos matriculados**, estarão todos os alunos da turma. Para acessar cada aluno, basta clicar sobre seu nome.![](images/student-history.png)
 
-5. Após clicar sobre o nome do aluno, você encontrará todo o histórico de bloqueios e justificativas do aluno. ![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/student-history-page.png)
+5. Após clicar sobre o nome do aluno, você encontrará todo o histórico de bloqueios e justificativas do aluno. ![](images/student-history-page.png)

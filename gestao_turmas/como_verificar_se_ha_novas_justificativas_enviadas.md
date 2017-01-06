@@ -10,4 +10,4 @@ Para verificar se há novas justificativas enviadas pelos alunos:
 
 As novas justificativas estão disponíveis no campo **Novas justificativas e justificativas com novas mensagens**, conforme a imagem a seguir:
 
-![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/student-request.png)
+![](images/student-request.png)

@@ -8,7 +8,7 @@ Para verificar o andamento de cada aluno em uma turma:
 
 3. Clique no botão **TURMA** localizado na barra superior.
 
-4. No campo **Alunos matriculados**, estarão todos os alunos da turma. Para acessar cada aluno, basta clicar sobre seu nome.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/student-history.png)
+4. No campo **Alunos matriculados**, estarão todos os alunos da turma. Para acessar cada aluno, basta clicar sobre seu nome.![](images/student-history.png)
 
 5. Após clicar sobre o nome do aluno, você encontrará as seguintes informações sobre o andamento do aluno:
   * Datas do primeiro e do último acesso
@@ -16,5 +16,5 @@ Para verificar o andamento de cada aluno em uma turma:
   * Histórico de bloqueios e justificativas
   * Informações sobre a quantidade de acessos por atividade mais as datas do primeiro e último acesso em cada uma
 
-![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/student-history-page-complete.png)
+![](images/student-history-page-complete.png)
 

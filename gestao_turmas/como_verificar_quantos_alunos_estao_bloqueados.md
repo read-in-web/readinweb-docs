@@ -10,5 +10,5 @@ Ao acessar a turma, você consegue visualizar quais alunos estão bloqueados. Pa
 
 A lista da turma será exibida e os alunos bloqueados são aqueles que estão marcados com uma faixa vermelha, conforme a imagem a seguir:
 
-![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/blocked.png)
+![](images/blocked.png)
 

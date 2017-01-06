@@ -12,4 +12,4 @@ Para adicionar uma atividade em um curso já existe, basta realizar os seguintes
 
 4. Escolha o módulo em que deseja adicionar uma atividade clicando em **LISTA DE MÓDULOS** e selecionando o módulo desejado.
 
-5. Clique no botão **Nova atividade**
+5. Clique no botão **Nova atividade**.

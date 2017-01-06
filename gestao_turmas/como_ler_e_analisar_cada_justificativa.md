@@ -8,7 +8,8 @@ Para ler e analisar as novas justificativas enviadas pelos alunos:
 
 3. Clique no botão **JUSTIFICATIVA** localizado na barra superior.
 
-4. No campo **Novas justificativas e justificativas com novas mensagens**, estarão as justificativas a serem avaliadas. Clique no botão **Avaliar** para acessar cada justificativa.![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/request.png)
+4. No campo **Novas justificativas e justificativas com novas mensagens**, estarão as justificativas a serem avaliadas. Clique no botão **Avaliar** para acessar cada justificativa.
+![](images/request.png)
 
 5. Na tela da justificativa, o professor pode tomar as seguintes ações:
   * **Recusar**: ao clicar neste botão, a justificativa não será aceita e o aluno continuará bloqueado.
@@ -17,10 +18,10 @@ Para ler e analisar as novas justificativas enviadas pelos alunos:
   * Por fim, o professor pode apenas ler as mensagens e clicar em qualquer outro menu para sair desta tela. Ou seja, em outro momento ele analisará aquele bloqueio.
 
 **Tela do professor**:
-![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/request-view.png)
+![](images/request-view.png)
 
 **Tela do aluno**:
-![](https://raw.githubusercontent.com/mupi/readinweb-docs/master/images/student-request-view.png)
+![](images/student-request-view.png)
 
 
 
