@@ -1,6 +1,6 @@
 # Documentação Read in Web
 
-Documentação do curso Read in Web da Unicamp criado na plataforma Sakai. Abaixo segue o índice da documentação dividida em quatro áreas: gestão de turmas, gestão de conteúdo, guia de usuário e configuração de conta. 
+Documentação do curso Read in Web da Unicamp criado na plataforma Sakai. Abaixo segue o índice da documentação dividida em quatro áreas: gestão de turmas, gestão de conteúdo, guia de usuário e configuração de conta.
 
 Serão apresentadas as principais tarefas a serem feitas pelo professor do curso com foco em algumas atividades específicas do semestre acadêmico da Unicamp. Alguns tutoriais são referentes à ferramenta do curso mas também são apresentadas tarefas relativas à plataforma Sakai.
 
@@ -13,7 +13,6 @@ Serão apresentadas as principais tarefas a serem feitas pelo professor do curso
     * [Como alterar o fuso horário de minha conta?](guia_sakai/como_alterar_o_fuso_horario_de_minha_conta.md)
     * [Como alterar o idioma da plataforma?](guia_sakai/como_alterar_o_idioma_da_plataforma.md)
     * [Como adicionar eventos pessoais no calendário?](guia_sakai/como_adicionar_eventos_pessoais_no_calendario.md)
-
 * [Guia Sakai - Papel de professor](sakai_professor/README.md)
     * [Como compartilhar eventos com os alunos no calendário?](sakai_professor/como_compartilhar_eventos_com_os_alunos_no_calendario.md)
     * [Como reutilizar o mesmo calendário entre diferentes turmas?](sakai_professor/como_reutilizar_o_mesmo_calendario_entre_diferentes_turmas.md)
@@ -26,8 +25,8 @@ Serão apresentadas as principais tarefas a serem feitas pelo professor do curso
     * [Como imprimir a lista de alunos por turma?](sakai_professor/como_imprimir_a_lista_de_alunos_por_turma.md)
     * [Como inserir o quadro de notas para os alunos?](sakai_professor/como_inserir_o_quadro_de_notas_para_os_alunos.md)
     * [Como desativar o aluno, cancelando sua matrícula do curso?](sakai_professor/como_desativar_o_aluno_cancelando_sua_matricula_do_curso.md)
-
 * Área do Professor - Gestão da ferramenta RiW
+    * [Como criar uma turma dentro de um curso?](gestao_turmas/como_criar_uma_turma_dentro_de_um_curso.md)
     * [Como verificar quantos alunos estão bloqueados?](gestao_turmas/como_verificar_quantos_alunos_estao_bloqueados.md)
     * [Como verificar se há novas justificativas enviadas?](gestao_turmas/como_verificar_se_ha_novas_justificativas_enviadas.md)
     * [Como ler e analisar cada justificativa?](gestao_turmas/como_ler_e_analisar_cada_justificativa.md)
@@ -37,7 +36,6 @@ Serão apresentadas as principais tarefas a serem feitas pelo professor do curso
     * [Como enviar mensagem para todos alunos ao mesmo tempo?](gestao_turmas/como_enviar_mensagem_para_todos_alunos_ao_mesmo_tempo.md)
 * [Administrador - Gestão do conteúdo RiW](administrador_-_edicao_riw.md)
     * [Como criar um curso utilizando o mesmo template do curso RiW?](como_criar_um_curso_utilizando_o_mesmo_template_do_curso_riw.md)
-    * [Como criar uma turma dentro de um curso?](como_criar_uma_turma_dentro_de_um_curso.md)
     * [Como adicionar uma atividade?](como_adicionar_uma_atividade.md)
     * [Como adicionar uma questão?](como_adicionar_uma_questao.md)
     * [Como editar uma questão?](como_editar_uma_questao.md)
