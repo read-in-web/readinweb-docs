@@ -1,23 +1,22 @@
 # Sobre a Liberação automática de atividades
 
-No caso de optar por liberação automática de atividades, é necessário
-acrescentar a propriedade `readinwebcourse.lastreleasedate` com a data de duas
-semanas antes do início do curso. Essa propriedade é o que mostra ao Sakai a
-data em que as últimas atividades forem liberadas.
-Para acessar as propriedades de uma turma, dirija-se à página de Sites e em
-seguida busque pelo site referente à turma desejada.
+No caso de optar por liberação automática de atividades pelo sistema, é necessário
+acrescentar a propriedade `readinwebcourse.lastreleasedate` nas configurações do curso. 
+Essa propriedade é o que mostra ao Sakai a data em que as últimas atividades forem liberadas.
+
+Para acessar as propriedades de uma turma, dirija-se à página de **Sites** e em
+seguida busque pelo site referente à turma desejada (a pesquisa deve ser feita através do nome da turma).
 ![Buscar site](images/search-site.png)
 
 Após isso, clique no botão **Propriedades** para poder alterar e acrescentar
 propriedades a uma turma. Veja abaixo um exemplo de quais propriedades o site da turma deve ter:
 ![Propriedades do site](images/site-properties.png)
 
-**Importante**: a propriedade `sections_externally_maintained` precisa estar
-definida como `false` para as atividades serem liberadas automaticamente. A
-propriedade `readinwebcourse.remissiontime` refere-se à periodicidade em que as
-atividades serão liberadas em uma escala semanal.
+**Importante!**
+- A propriedade `sections_externally_maintained` precisa estar definida como `false` para que as atividades sejam liberadas automaticamente. 
+- A propriedade `readinwebcourse.remissiontime` refere-se à periodicidade em que as atividades serão liberadas em uma escala semanal.
 
-### Como liberar atividades manualmente
+# Como liberar atividades manualmente
 
 Na tela de Propriedades da turma, é possível liberar e esconder atividades
 manualmente alterando o campo `readinwebcourse.data`, que possui o seguinte
@@ -135,5 +134,7 @@ formato divido por módulos e atividades:
 
 }
 ```
+**Observação**
+
 As atividades que recebem o valor `true` estão liberadas aos estudantes,
 enquanto as que recebem o valor `false` não são exibidas.
