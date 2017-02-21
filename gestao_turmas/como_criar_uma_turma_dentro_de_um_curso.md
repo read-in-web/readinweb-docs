@@ -23,11 +23,11 @@ selecionadas. Após isso clique em Salvar.
 5 - Ainda na tela do site, copie a identificação do site que possui o formato
 `361f5b9ea54e148885dcad73ad3ea8f9`.
 
-6 - Direcione-se à página "Domínios" no menu lateral esquerdo e busque pelo site
-colando a identificação no campo de Pesquisa.
+6 - Com a identificação copiada, clique em "Domínios" no menu lateral esquerdo e busque pelo site
+colando a identificação no campo de Pesquisa. Os papéis de usuário da plataforma serão mostrados.
 
-7 - Clique no papel **Student**
+7 - Clique no papel **Student** e o checklist a seguir será mostrado.
 ![Papeis](images/roles.png)
 
-8 - Para finalizar, selecione o campo `readinweb.access`
+8 - Para finalizar, selecione o campo `readinweb.access` e clique em Salvar.
 ![Papeis](images/selectriw-access.png)
