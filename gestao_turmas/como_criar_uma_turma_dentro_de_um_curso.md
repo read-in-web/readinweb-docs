@@ -9,7 +9,7 @@ Acesse a tela de administração do Read in Web pelo menu lateral ou superior:
 1 - Clique no botão de "Nova turma" no curso que deseja.
 ![Tela do curso](images/course-menu.png)
 
-2 - Na tela de criação, adicione os dados da no turma.
+2 - Na tela de criação, adicione os dados da nova turma.
 ![Criar turma](images/create-class.png)
 
 3 - No menu Sites do Sakai, busque o site referente a nova turma que foi criada
