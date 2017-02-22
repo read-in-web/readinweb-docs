@@ -26,7 +26,7 @@ selecionadas. Após isso clique em Salvar.
 6 - Com a identificação copiada, clique em "Domínios" no menu lateral esquerdo e busque pelo site
 colando a identificação no campo de Pesquisa. Os papéis de usuário da plataforma serão mostrados.
 
-7 - Clique no papel **Student** e o checklist a seguir será mostrado.
+7 - Clique no papel **Student** e a lista de papéis a seguir será mostrada.
 ![Papeis](images/roles.png)
 
 8 - Para finalizar, selecione o campo `readinweb.access` e clique em Salvar.
