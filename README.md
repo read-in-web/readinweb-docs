@@ -4,6 +4,8 @@ Documentação do curso Read in Web da Unicamp criado na plataforma Sakai. Abaix
 
 Serão apresentadas as principais tarefas a serem feitas pelo professor do curso com foco em algumas atividades específicas do semestre acadêmico da Unicamp. Alguns tutoriais são referentes à ferramenta do curso mas também são apresentadas tarefas relativas à plataforma Sakai.
 
+[Clique aqui para baixar a última versão compilada em formato pdf](https://github.com/read-in-web/readinweb-docs/raw/master/documentacaoriw2017.pdf) - Atualizada em 23/02/2017
+
 ## Índice
 
 * Guia Sakai - Papel de usuário padrão
