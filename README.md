@@ -14,6 +14,9 @@ Serão apresentadas as principais tarefas a serem feitas pelo professor do curso
     * [Como alterar o idioma da plataforma?](guia_sakai/como_alterar_o_idioma_da_plataforma.md)
     * [Como adicionar eventos pessoais no calendário?](guia_sakai/como_adicionar_eventos_pessoais_no_calendario.md)
 
+* Guia do aluno
+    * [Como se matricular em uma turma?](guia_sakai/como_se_matricular.md)
+
 * Guia Sakai - Papel de professor
     * [Como compartilhar eventos com os alunos no calendário?](sakai_professor/como_compartilhar_eventos_com_os_alunos_no_calendario.md)
     * [Como reutilizar o mesmo calendário entre diferentes turmas?](sakai_professor/como_reutilizar_o_mesmo_calendario_entre_diferentes_turmas.md)
