@@ -1,2 +1,0 @@
-# Como editar uma atividade?
-

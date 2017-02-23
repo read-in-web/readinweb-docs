@@ -1,2 +1,0 @@
-# Como excluir uma atividade?
-
