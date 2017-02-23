@@ -1,4 +1,4 @@
-# Fluxo de matrícula em uma turma
+# Como se matricular em uma turma
 
 Para se matricular em uma turma que esteja aberta para matrículas, é necessário
 se cadastrar na plataforma através do link "Cadastro" e preencher o formulário
