@@ -1,5 +1,9 @@
 # Como se matricular em uma turma
 
+**Importante!** Link para inscrições na turma da pós da UNICAMP: [http://readinweb.cel.unicamp.br](http://readinweb.cel.unicamp.br)
+
+## Instruções para efetuar matrícula
+
 Para se matricular em uma turma que esteja aberta para matrículas, é necessário
 se cadastrar na plataforma através do link "Cadastro" e preencher o formulário
 que será exibido:
